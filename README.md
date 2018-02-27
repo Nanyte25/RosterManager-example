@@ -4,11 +4,20 @@ Application written in meteor js
 ##
 Installation
 
-install meteor 
+
+Install meteor 
 ```
 curl https://install.meteor.com/ | sh
 
 ```
+
+git clone the repo
+
+```
+git clone https://github.com/Nanyte25/RosterManager.git
+
+``
+
 
 install packages
 
