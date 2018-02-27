@@ -5,18 +5,22 @@ Application written in meteor js
 Installation
 
 
-Install meteor 
+## Install meteor
+
+
 ```
 curl https://install.meteor.com/ | sh
 
 ```
 
-git clone the repo
+
+
+## git clone the repo
 
 ```
 git clone https://github.com/Nanyte25/RosterManager.git
 
-``
+```
 
 
 install packages
